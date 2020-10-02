@@ -6,4 +6,4 @@ I followed the tutorial, but I *tried* to make my own head, instead of the instr
 I didn't really get the resemblance that I was looking for , but I'm pleased with the result nonetheless.
 Here are some renders in Cycles:
 ![isometric](render/final.png)
-![animation](render/orbiting/0001-0180.mp4)
+![animation](render/orbiting/render.gif)
